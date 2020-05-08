@@ -9,7 +9,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "GitRepo": "git+https://github.com:alt2cl/colores.git"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -47,12 +48,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alt2cl/colores.git"
+    "url": "git+https://github.com:alt2cl/colores.git"
   },
   "author": "aldo diaz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alt2cl/colores/issues"
   },
-  "homepage": "https://github.com/alt2cl/colores#readme"
+  "homepage": "."
 }
