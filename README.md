@@ -24,7 +24,7 @@ npm install
 ```sh
 npm start
 ```
-- El proyecto abrira tu navegador en la siguiente URL ```http://localhost:3000/```
+- El proyecto abrira tu navegador en la siguiente URL [http://localhost:3000](http://localhost:3000)
 
 - Eso es todo, disfrutalo.
 
@@ -47,5 +47,6 @@ npm start
 - Optimización de ambiente producción
   - Compresión código HTML y CSS
 - Integración continua:
-  - Netlify.com ```https://brave-clarke-79eae3.netlify.app/```
+  - [https://www.netlify.com/] (www.netlify.com)  
+  - [https://brave-clarke-79eae3.netlify.app/](https://brave-clarke-79eae3.netlify.app/)
   - Sincronización de _github_ con la plataforma _Netlify_ con listener al comando BUILD
