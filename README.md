@@ -6,13 +6,13 @@ Sencilla aplicación de escritorio y mobile que permite documentar y obtener los
 
 ## Installación
 - Clona este repositorio desde en tu terminal o descarga este proyecto en tu equipo desde el boton _verde_ en la esquina superior izquierda
-- Desde tu terminal, escribe 
+- Desde tu terminal, escribe: 
 ```sh
 git clone https://github.com/alt2cl/colores
 ```
-  - preciona enter
+  - presiona enter
 - Esto comenzara a descargar los archivos en tu esquipo en el directorio seleccionado.
-- En tu terminal, incresaremos al directorio del proyecto:
+- En tu terminal, ingresaremos al directorio del proyecto:
 ```sh
 cd colores-master
 ```
@@ -35,7 +35,7 @@ npm start
 - React
 - Modern JavaScript with [Babel][babel]
   - Polyfills
-    - [fetch][fetch]
+    - fetch
 - Code Splitting
     - Modularización de los componentes.
 - Auto recarga en ambiente desarrollo
@@ -47,6 +47,6 @@ npm start
 - Optimización de ambiente producción
   - Compresión código HTML y CSS
 - Integración continua:
-  - [https://www.netlify.com/] (www.netlify.com)  
+  - [https://www.netlify.com/](www.netlify.com)  
   - [https://brave-clarke-79eae3.netlify.app/](https://brave-clarke-79eae3.netlify.app/)
   - Sincronización de _github_ con la plataforma _Netlify_ con listener al comando BUILD
