@@ -14,7 +14,7 @@ git clone https://github.com/alt2cl/colores
 - Esto comenzara a descargar los archivos en tu esquipo en el directorio seleccionado.
 - En tu terminal, ingresaremos al directorio del proyecto:
 ```sh
-cd colores-master
+cd colores
 ```
 - Nuevamente en tu terminal instalaremos todas las dependencias necesarias para el proyecto, esto tomara algunos minutos:
 ```sh
@@ -46,7 +46,7 @@ npm start
   - Responsive CSS
 - Optimización de ambiente producción
   - Compresión código HTML y CSS
-- Integración continua:
+- Integración continua DEPLOY:
   - [https://www.netlify.com/](www.netlify.com)  
   - [https://brave-clarke-79eae3.netlify.app/](https://brave-clarke-79eae3.netlify.app/)
   - Sincronización de _github_ con la plataforma _Netlify_ con listener al comando BUILD
