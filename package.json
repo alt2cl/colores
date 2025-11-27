@@ -12,7 +12,7 @@
     "GitRepo": "git+https://github.com:alt2cl/colores.git",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "typescript": "^3.8.3"
   },
   "scripts": {
@@ -30,7 +30,7 @@
     "sass-loader": "^8.0.0",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.9",
-    "webpack-dev-server": "^3.8.2"
+    "webpack-dev-server": "^5.2.2"
   },
   "eslintConfig": {
     "extends": "react-app"
